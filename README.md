@@ -8,10 +8,13 @@ Welcome to the Minescape repository of languages, textures, and models. Anyone i
 I thank anyone who would like to help out with those, but as well as contributing in that way you can also submit suggestions, bug reports, and or questions on the issues tab.
 
 
+
 # Credits
 * eFrostbite - Project manager and lead developer
 * Stephen92 - Hosting the official servers for Minescape
 * Podcrash - For building the current runescape minecraft map
+
+
 
 # Issues
 If you find yourself with discovering a nasty bug there is a format which will speed up the fixing process.
