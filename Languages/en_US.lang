@@ -1,0 +1,25 @@
+< en_US.lang - English localization file for Minescape >
+tile.oreCopper.name=Copper ore
+tile.oreTin.name=Tin ore
+tile.oreIron.name=Iron ore
+tile.oreSilver.name=Silver ore
+tile.oreCoal.name=Coal ore
+tile.oreGold.name=Gold ore
+tile.oreMithril.name=Mithril ore
+tile.oreAdamantite.name=Adamantite ore
+tile.oreRunite.name=Runite ore
+tile.oreBane.name=Bane ore
+
+item.oreCopperItem.name=Copper ore
+item.oreTinItem.name=Tin ore
+item.oreIronItem.name=Iron ore
+item.oreSilverItem.name=Silver ore
+item.oreCoalItem.name=Coal ore
+item.oreGoldItem.name=Gold ore
+item.oreMithrilItem.name=Mithril ore
+item.oreAdamantiteItem.name=Adamantite ore
+item.oreRuniteItem.name=Runite ore
+item.oreBaneItem.name=Bane ore
+
+item.itemLogo.name=Logo
+itemGroup.tabMs=Minescape
